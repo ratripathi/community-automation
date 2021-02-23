@@ -26,3 +26,4 @@ tags:
 #    - demo
 #    - collection
 repository: "https://github.com/IBM/community-automation/tree/master/ansible"
+path: "roles"
