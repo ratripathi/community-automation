@@ -25,4 +25,4 @@ license:
 tags:
 #    - demo
 #    - collection
-repository: "https://github.com/IBM/community-automation/tree/master/ansible/roles"
+repository: "https://github.com/IBM/community-automation/tree/master/ansible"
